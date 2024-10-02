@@ -1,4 +1,4 @@
-package main.java.com.diningphilosophers;
+package com.diningphilosophers;
 
 public class Main {
 
